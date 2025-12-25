@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "On The Ground",
+  "base_artist": "ROSÉ",
+  "createdAt": "2025-12-25T14:37:06.262882Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Blanket On The Ground",
+      "artist": "Billie Jo Spears",
+      "has_synced": true,
+      "path": "select/01_Blanket_On_The_Ground_Billie_Jo_Spears.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "No More Keeping My Feet On the Ground",
+      "artist": "Coldplay",
+      "has_synced": true,
+      "path": "select/02_No_More_Keeping_My_Feet_On_the_Ground_Coldplay.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Back On the Ground",
+      "artist": "Helloween",
+      "has_synced": true,
+      "path": "select/03_Back_On_the_Ground_Helloween.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Down On the Ground",
+      "artist": "British Sea Power",
+      "has_synced": true,
+      "path": "select/04_Down_On_the_Ground_British_Sea_Power.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dust On the Ground",
+      "artist": "Bombay Bicycle Club",
+      "has_synced": true,
+      "path": "select/05_Dust_On_the_Ground_Bombay_Bicycle_Club.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Flying On The Ground Is Wrong",
+      "artist": "Buffalo Springfield",
+      "has_synced": false,
+      "path": "select/06_Flying_On_The_Ground_Is_Wrong_Buffalo_Springfield.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Feet on the Ground",
+      "artist": "Anouk",
+      "has_synced": true,
+      "path": "select/07_Feet_on_the_Ground_Anouk.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Back On the Ground - Bonus Track",
+      "artist": "Helloween",
+      "has_synced": true,
+      "path": "select/08_Back_On_the_Ground_-_Bonus_Track_Helloween.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Dust On The Ground - Banjo Or Freakout Remix",
+      "artist": "Bombay Bicycle Club",
+      "has_synced": false,
+      "path": "select/09_Dust_On_The_Ground_-_Banjo_Or_Freakout_Remix_Bombay_Bicycle_Club.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Dust on the Ground (Demo)",
+      "artist": "Bombay Bicycle Club",
+      "has_synced": false,
+      "path": "select/10_Dust_on_the_Ground_(Demo)_Bombay_Bicycle_Club.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Cage On The Ground",
+      "artist": "Flyleaf",
+      "has_synced": true,
+      "path": "select/11_Cage_On_The_Ground_Flyleaf.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Eyes On The Ground",
+      "artist": "The Connells",
+      "has_synced": false,
+      "path": "select/12_Eyes_On_The_Ground_The_Connells.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Crown On the Ground",
+      "artist": "Sleigh Bells",
+      "has_synced": true,
+      "path": "select/13_Crown_On_the_Ground_Sleigh_Bells.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Crown On The Ground",
+      "artist": "Sleigh Bells",
+      "has_synced": true,
+      "path": "select/14_Crown_On_The_Ground_Sleigh_Bells.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "On The Ground",
+      "artist": "ROSÉ",
+      "has_synced": false,
+      "path": "select/pl_01_On_The_Ground_ROSÉ.txt"
+    }
+  ]
+}
